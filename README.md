@@ -4,7 +4,7 @@
 
 <h1 align="center">Hey, I'm Farhan Sayed 👋</h1>
 
-<h3 align="center">A B.Sc. IT student building the future with AI, Robotics, and a dash of cosmic curiosity.</h3>
+<h3 align="center">A IT student building the future with AI, Robotics, and a dash of cosmic curiosity.</h3>
 
 <p align="center">
   <i>"I believe technology is the lens through which we can decipher the universe's greatest mysteries. My goal is to build that lens."</i>
@@ -91,12 +91,12 @@ I have experience with a wide range of technologies across the software and hard
 ### 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FarhanSayed03&show_icons=true&theme=tokyonight&rank_icon=github" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarhanSayed03&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FarhanSayed16&show_icons=true&theme=tokyonight&rank_icon=github" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarhanSayed16&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarhanSayed03&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarhanSayed16&theme=tokyo-night" />
 </p>
 
 ---
@@ -106,12 +106,12 @@ I have experience with a wide range of technologies across the software and hard
 I'm always open to collaborating on exciting projects or discussing new ideas. Feel free to reach out!
 
 <p align="center">
-  <a href="mailto:farhansayed@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/farhansayed"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/FarhanSayed03"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:farhansayed54@gamil.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/farhansayed16"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/FarhanSayed16"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://farhansayed.dev"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FarhanSayed03&label=Profile%20Views&color=00BFFF&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=FarhanSayed16&label=Profile%20Views&color=00BFFF&style=flat-square" alt="profile views" />
 </p>
