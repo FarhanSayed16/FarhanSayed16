@@ -96,45 +96,22 @@ Driven by curiosity and purpose, my mission is to create technology that **empow
 
 ### 📊 GitHub Stats & Activity
 
-<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FarhanSayed16&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&bg_color=0D1117&card_width=450" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarhanSayed16&theme=tokyonight&hide_border=true&background=0D1117" height="165" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanSayed16&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" height="165" />
+</p>
 
-  <!-- 🧮 Stats & Streak -->
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=FarhanSayed16&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&border_radius=10" height="165" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarhanSayed16&theme=tokyonight&hide_border=true&border_radius=10" height="165" />
-      </td>
-    </tr>
-  </table>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarhanSayed16&theme=react-dark&bg_color=0D1117&color=70a5fd&line=38bdae&point=ffffff&hide_border=true" />
+</p>
 
-  <br>
-
-  <!-- 🌐 Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanSayed16&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="160" />
-
-  <br><br>
-
-  <!-- 🏆 Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=FarhanSayed16&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" width="80%" />
-
-  <br><br>
-
-  <!-- 📈 Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarhanSayed16&theme=react-dark&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&hide_border=true&radius=10" width="90%" />
-
-  <br><br>
-
-  <!-- 🧩 Profile Summary Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FarhanSayed16&theme=tokyonight" width="90%" />
-
-  <br>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FarhanSayed16&theme=tokyonight&background=0D1117" />
+</p>
 
 ---
 
