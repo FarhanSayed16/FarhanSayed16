@@ -2,17 +2,24 @@
 <!-- 👨‍💻 FARHAN SAYED | GITHUB README -->
 <!-- ──────────────────────────────── -->
 
-<h1 align="center">✨ Farhan Sayed</h1>
+<h1 align="center">Farhan Sayed</h1>
 
 <p align="center">
   <b>AI & Robotics Enthusiast | Full Stack Developer | Research-Oriented Innovator</b>
 </p>
 
 <p align="center">
-  <a href="https://github.com/FarhanSayed16"><img src="https://img.shields.io/badge/GitHub-FarhanSayed16-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://linkedin.com/in/farhansayed16"><img src="https://img.shields.io/badge/LinkedIn-FarhanSayed16-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:farhansayed@example.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://github.com/FarhanSayed16" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/farhansayed16" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:farhansayed@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
+
 
 ---
 
@@ -89,18 +96,45 @@ Driven by curiosity and purpose, my mission is to create technology that **empow
 
 ### 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FarhanSayed16&show_icons=true&theme=tokyonight&rank_icon=github" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarhanSayed16&theme=tokyonight" height="160"/>
-</p>
+<br>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarhanSayed16&theme=tokyo-night" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FarhanSayed16&theme=tokyonight" />
-</p>
+  <!-- 🧮 Stats & Streak -->
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=FarhanSayed16&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&border_radius=10" height="165" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarhanSayed16&theme=tokyonight&hide_border=true&border_radius=10" height="165" />
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <!-- 🌐 Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanSayed16&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="160" />
+
+  <br><br>
+
+  <!-- 🏆 Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=FarhanSayed16&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" width="80%" />
+
+  <br><br>
+
+  <!-- 📈 Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarhanSayed16&theme=react-dark&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&hide_border=true&radius=10" width="90%" />
+
+  <br><br>
+
+  <!-- 🧩 Profile Summary Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FarhanSayed16&theme=tokyonight" width="90%" />
+
+  <br>
+
+</div>
 
 ---
 
@@ -116,7 +150,13 @@ Driven by curiosity and purpose, my mission is to create technology that **empow
 </p>
 
 <p align="center">
-  <a href="https://github.com/FarhanSayed16"><img src="https://img.shields.io/badge/GitHub-FarhanSayed16-181717?style=flat-square&logo=github" /></a>
-  <a href="https://linkedin.com/in/farhansayed16"><img src="https://img.shields.io/badge/LinkedIn-FarhanSayed16-0A66C2?style=flat-square&logo=linkedin" /></a>
-  <a href="mailto:farhansayed@example.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail" /></a>
+  <a href="https://github.com/FarhanSayed16" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/farhansayed16" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:farhansayed@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
