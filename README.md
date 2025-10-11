@@ -1,114 +1,109 @@
-<!-- ✅ Custom Banner -->
+<!-- Profile Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FarhanSayed16/FarhanSayed16/main/assets/banner.png" alt="Farhan Sayed Banner" width="100%" />
+  <img src="YOUR_BANNER_IMAGE_URL" alt="Farhan Sayed Banner" width="100%" />
 </p>
 
-<h1 align="center">Hey 👋, I'm <span style="color:#00BFFF;">Farhan Sayed</span></h1>
-<h3 align="center">🚀 AI & Robotics Enthusiast | IT Student | Exploring Intelligence Beyond Boundaries</h3>
+<h1 align="center">Hey there, I'm <a href="https://github.com/FarhanSayed">Farhan Sayed</a> 👋</h1>
+<h3 align="center">AI & Robotics Enthusiast | Researcher | Problem Solver | Innovator</h3>
+
+<p align="center">
+  <a href="https://github.com/FarhanSayed">
+    <img src="https://komarev.com/ghpvc/?username=FarhanSayed&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+  <a href="https://github.com/FarhanSayed?tab=followers">
+    <img src="https://img.shields.io/github/followers/FarhanSayed?label=Followers&style=social" alt="followers" />
+  </a>
+</p>
 
 ---
 
-### 💫 About Me
+### 🧑‍🚀 About Me
 
-I'm a passionate **AI, ML, and Robotics** enthusiast with a deep curiosity for how technology can help us understand and transform our world — and maybe, one day, the universe itself 🌌  
+I’m **Farhan Sayed**, an aspiring **AI researcher and technologist** currently pursuing **B.Sc. in Information Technology**.  
+My passion lies in **AI, Robotics, Machine Learning, and Intelligent Systems** — developing solutions that push the limits of technology and innovation.
 
-I’m currently pursuing **B.Sc. in Information Technology**, building intelligent systems that combine **software, data, and hardware** to create real-world impact. My projects often revolve around automation, intelligent decision-making, and research-driven innovation.
+I love exploring intersections between **hardware and intelligence**, building **smart robotic systems**, and developing **AI-driven applications** that solve real-world challenges.
 
-- 🧠 Exploring **Neural Networks**, **Computer Vision**, and **Generative AI**
-- 🤖 Building smart, semi-autonomous robots that *think and act*
-- 🔭 Fascinated by the interplay between **AI, space, and scientific discovery**
-- 🌱 Learning **Deep Learning**, **Raspberry Pi Automation**, and **Advanced AI Systems**
-- 💡 Believer in technology that serves *purpose* and drives *progress*
+---
+
+### 🏆 Achievements & Highlights
+
+- 🥇 **Smart India Hackathon 2024** Finalist — *AYUSH Startup Portal*  
+  *Ranked among Top 5 teams at IIT Tirupati.*
+- 🧠 **Statathon 2025** Participant — *AI-driven Statistical Prediction Challenge.*
+- 🤖 **Robotic Waste Collector Project** — Semi-Automated System for Waste Detection & Collection.  
+- 📊 **Student Performance Prediction Dashboard** — AI Model for Academic Insights.  
+- 💼 **GovBuy E-Procurement System** — Full MERN stack solution for government purchases.  
+
+---
+
+### 💻 Tech Stack
+
+#### **Languages**
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B)
+
+#### **Frameworks & Libraries**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+
+#### **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
+
+#### **Hardware & Tools**
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
+![ESP32](https://img.shields.io/badge/ESP32-003366?style=for-the-badge)
+![RaspberryPi](https://img.shields.io/badge/RaspberryPi-A22846?style=for-the-badge&logo=raspberry-pi)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
 ---
 
 ### 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
-| -------- | ------------ | ----------- |
-| **🧠 Cortana Project (AI Assistant)** | A personal AI assistant that learns and interacts like me, soon integrating with Raspberry Pi for voice-controlled robotics. | `Python`, `TensorFlow`, `PyTorch`, `NLP`, `Raspberry Pi` |
-| **🦾 Smart Robotic Garbage Collector** | A semi-autonomous robotic system capable of detecting, collecting, and disposing garbage in sandy/swampy environments. | `Arduino Mega`, `ESP32`, `HC-SR04`, `Servo Motors`, `Flutter` |
-| **📊 Student Performance Predictor** | AI-powered academic analytics dashboard predicting student outcomes using internal assessments and attendance. | `React.js`, `Flask`, `scikit-learn`, `Pandas`, `Chart.js` |
-| **🛒 GovBuy E-Procurement System** | A full-stack MERN application streamlining government purchasing and tenders with digital transparency. | `MongoDB`, `Express.js`, `React.js`, `Node.js` |
-| **🌊 Project Samudra Sachet** | AI-driven disaster prediction and response system for the Indian Ocean, built for the INCOIS Hackathon. | `Python`, `Flask`, `Folium`, `Machine Learning` |
+|----------|--------------|------------|
+| [🧠 Cortana AI Assistant](https://github.com/FarhanSayed/Cortana-Project) | Personal AI assistant capable of context-aware interaction and voice commands | Python, NLP, Flask |
+| [🤖 Robotic Garbage Collector](https://github.com/FarhanSayed/Robotic-Waste-Collector) | Semi-automated robot for garbage detection and collection | Arduino, ESP32, Sensors |
+| [📊 Student Performance Dashboard](https://github.com/FarhanSayed/Student-Performance-Prediction) | AI-driven dashboard predicting student academic outcomes | React, Flask, ML |
+| [🏛️ GovBuy E-Procurement System](https://github.com/FarhanSayed/GovBuy) | MERN-based system for government procurement | MERN Stack |
+| [💼 AYUSH Startup Portal (SIH)](https://github.com/FarhanSayed/AYUSH-Startup-Portal) | Startup registration portal selected for SIH 2024 Finale | React, Node.js, MongoDB |
 
 ---
 
-### 🧰 Tech Stack & Tools
+### 📈 GitHub Stats
 
 <p align="center">
-  <b>AI / Machine Learning</b><br/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarhanSayed&theme=tokyonight" alt="streak stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanSayed&layout=compact&theme=tokyonight" alt="top languages" width="48%" />
 </p>
 
 <p align="center">
-  <b>Languages</b><br/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-<p align="center">
-  <b>Web Development</b><br/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-</p>
-
-<p align="center">
-  <b>Databases</b><br/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-<p align="center">
-  <b>Hardware & IoT</b><br/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ESP32-E73024?style=for-the-badge&logo=espressif&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FarhanSayed&theme=tokyonight" alt="summary card" />
 </p>
 
 ---
 
-### 🏆 Achievements & Highlights
-
-- 🥇 **Top 5 National Finalist** — *Smart India Hackathon 2024*, IIT Tirupati  
-- 🧠 **AI Track Finalist** — *NextEdge Conclave*, Predictive Dashboard for Student Performance  
-- 📚 **Researcher & Innovator** — Working on papers exploring AI’s societal impact  
-- ⚙️ Developed **multiple AI-driven robotic systems** integrating vision, sensors & automation  
-
----
-
-### 📊 GitHub Analytics
+### 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FarhanSayed16&show_icons=true&theme=tokyonight&rank_icon=github" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarhanSayed16&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarhanSayed16&theme=tokyo-night" />
+  <a href="https://www.linkedin.com/in/farhan-sayed"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:farhansayed.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/FarhanSayed"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
+  <a href="https://kaggle.com"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle"></a>
 </p>
 
 ---
 
-### 🌐 Let's Connect
-
 <p align="center">
-  <a href="mailto:farhansayed54@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/farhansayed16"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/FarhanSayed16"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://farhansayed.dev"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <img src="https://github.com/FarhanSayed/FarhanSayed/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
-<p align="center">
-  <i>"Technology isn't just about creating machines — it's about expanding the boundaries of what we understand as possible."</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FarhanSayed16&label=Profile%20Views&color=00BFFF&style=flat-square" alt="profile views" />
-</p>
+<p align="center">✨ Always curious. Always building. Always evolving. ✨</p>
