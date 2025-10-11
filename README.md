@@ -1,89 +1,94 @@
-<!-- Profile Banner -->
+<!-- ──────────────────────────────── -->
+<!-- 👨‍💻 FARHAN SAYED | GITHUB README -->
+<!-- ──────────────────────────────── -->
+
+<h1 align="center">✨ Farhan Sayed</h1>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FarhanSayed16/FarhanSayed16/main/banner.png" alt="Farhan Sayed Banner" width="100%" />
+  <b>AI & Robotics Enthusiast | Research-Oriented Innovator | Tech Visionary</b>
 </p>
 
-<h1 align="center">Hey, I'm <a href="https://github.com/FarhanSayed16">Farhan Sayed</a> 👋</h1>
-<h3 align="center">AI • Robotics • Full-Stack Development • Research & Innovation</h3>
-
 <p align="center">
-  <a href="https://github.com/FarhanSayed16">
-    <img src="https://komarev.com/ghpvc/?username=FarhanSayed16&label=Profile%20views&color=00BFFF&style=flat-square" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/FarhanSayed16?tab=followers">
-    <img src="https://img.shields.io/github/followers/FarhanSayed16?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
+  <a href="https://github.com/FarhanSayed"><img src="https://img.shields.io/badge/GitHub-FarhanSayed-181717?style=for-the-badge&logo=github" /></a>
+  <a href="mailto:farhansayed@example.com"><img src="https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
 
-### 🧭 About Me
+### 🧠 About Me
 
-I'm **Farhan Sayed**, a passionate technologist exploring the depths of **AI, Robotics, and Full-Stack Development**.  
-I blend **hardware intelligence**, **data-driven AI**, and **scalable web systems** to craft impactful, futuristic solutions that bridge imagination and reality.
-
-I focus on building technology that’s **meaningful, efficient, and human-centered** — combining innovation with purpose.
+Driven by curiosity and purpose, I aim to blend **Artificial Intelligence, Robotics, and Research** to solve real-world problems and explore new dimensions of innovation.  
+Currently pursuing **B.Sc. in Information Technology**, I focus on building systems that merge **automation, intelligence, and human benefit**.
 
 ---
 
 ### 🏆 Achievements & Highlights
 
-- 🏅 **Smart India Hackathon 2024 (IIT Tirupati)** – *AYUSH Startup Registration Portal* (Top 5 Finalist)
-- 🧠 **NextEdge Conclave (AI Track)** – *Student Performance Prediction Dashboard*
-- 🌊 **INCOIS Hackathon** – *Project Samudra Sachet (AI-driven Ocean Risk Platform)*
-- 📈 **Statathon 2025** – *Survey Builder & Data Insight Platform*
-- 🤖 **Robotic Waste Collector** – *Semi-Automated Smart Robot for Garbage Collection*
-- 🌐 **GovBuy E-Procurement Platform** – *End-to-End Government Procurement Portal*
-- 💡 **Civic Issue Reporting System** – *Smart India Hackathon Prototype*
+- 🥇 **Top 5 Finalist** — *Smart India Hackathon 2024 Grand Finale (IIT Tirupati)*  
+  Project: *AYUSH Startup Registration Portal*  
+- 🧠 **AI Track Competitor** — *NextEdge Conclave 2025*  
+  Project: *AI Dashboard for Student Performance Prediction*  
+- 🤖 **Robotics Research Project** — Semi-Automatic Garbage Pickup Robot (ESP32 + Arduino Mega + Flutter)  
+- 💬 **Cortana AI Assistant Project** — Building a personal AI system modeled on my own behavior and personality  
 
 ---
 
-### 💻 Tech Stack
+### ⚙️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,php,flutter,dart,react,nodejs,express,fastapi,flask,mongodb,mysql,postgres,firebase,tensorflow,pytorch,arduino,raspberrypi,docker,nginx,git,vscode&perline=10" />
+#### 💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css" />
+</p>
+
+#### 🧩 Frameworks & Libraries
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,fastapi,tailwind" />
+</p>
+
+#### 🤖 AI / ML & Data Science
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="40" />
+</p>
+
+#### 🛢️ Databases & Cloud
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
+
+#### 🧠 Tools & Dev Environment
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,raspberrypi,flutter" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|----------|--------------|------------|
-| 🏥 **AYUSH Startup Registration Portal** | A national-level startup registration system built for the Smart India Hackathon 2024 (Finalist @ IIT Tirupati). | React.js, Node.js, MongoDB, Express |
-| 🛒 **GovBuy E-Procurement Platform** | A digital procurement solution streamlining government tenders and vendor management. | MERN Stack, JWT Auth, REST API |
-| 🤖 **Robotic Waste Collector** | Semi-automated robot designed for garbage detection and pickup in sandy/swampy terrains. | Arduino Mega, ESP32, Flutter, Sensors |
-| 🌊 **Project Samudra Sachet** | AI-based disaster alert and risk assessment platform for oceanic zones. | Python, Flask, ML, Folium, Pandas |
-| 🧩 **Civic Issue Reporting System** | Smart city initiative to report, monitor, and resolve civic issues using tech-driven governance. | React, Node.js, MongoDB, REST APIs |
-| 📈 **Statathon Project (Survey Builder)** | A survey insight and prediction platform developed for AICTE Statathon 2025. | Python, Flask, Pandas, Chart.js |
-
----
-
-### 📊 GitHub Insights
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarhanSayed16&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanSayed16&layout=compact&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarhanSayed&theme=tokyonight" alt="streak stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanSayed&layout=compact&theme=tokyonight" alt="top languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FarhanSayed16&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FarhanSayed&theme=tokyonight" alt="summary card" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+### 🌌 Vision
 
-<p align="center">
-  <a href="mailto:farhansayed54@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/farhansayed16"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/FarhanSayed16"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+> "To innovate, explore, and research beyond boundaries —  
+>  creating technology that understands, evolves, and empowers humanity."
 
 ---
 
 <p align="center">
-  <img src="https://github.com/FarhanSayed16/FarhanSayed16/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <i>Let's connect and build the future together 🚀</i>
 </p>
 
-<p align="center">⚡ Passion for AI. Precision in Code. Purpose in Innovation. ⚡</p>
+<p align="center">
+  <a href="https://github.com/FarhanSayed"><img src="https://img.shields.io/badge/GitHub-FarhanSayed-181717?style=flat-square&logo=github" /></a>
+  <a href="mailto:farhansayed@example.com"><img src="https://img.shields.io/badge/Email-Contact-0078D4?style=flat-square&logo=gmail" /></a>
+</p>
