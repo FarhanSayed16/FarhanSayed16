@@ -3,10 +3,13 @@ name: Generate Snake Animation
 on:
   schedule:
     - cron: "0 0 * * *"  # Runs daily at midnight
-  workflow_dispatch:      # Allows manual trigger
+  workflow_dispatch:
   push:
     branches:
       - main
+
+permissions:
+  contents: write    # ✅ Important fix (grants write access)
 
 jobs:
   generate:
@@ -15,7 +18,7 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate GitHub Contribution Snake
         uses: Platane/snk@v3
