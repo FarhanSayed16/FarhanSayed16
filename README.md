@@ -195,4 +195,6 @@ Driven by curiosity and purpose, my mission is to create technology that **empow
 ![GitHub Skyline](https://github.com/FarhanSayed16/FarhanSayed16/raw/main/3d-contribution.gif)
 
 ---
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" alt="wave" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" alt="wave" />
+</p>
