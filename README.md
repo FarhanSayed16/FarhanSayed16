@@ -54,16 +54,18 @@ Driven by curiosity and purpose, my mission is to create technology that **empow
 
 ---
 
-### 🚀 Projects
+## 🚀 Projects
 
 | Project | Description | Tech Stack | Link |
 |----------|--------------|-------------|------|
-| 🏛️ **AYUSH Startup Registration Portal** | Government portal prototype developed for Smart India Hackathon 2024. | MERN Stack • Node.js • MongoDB | [View Repo](https://github.com/FarhanSayed16/ayush-startup-portal) |
-| 💼 **GovBuy E-Procurement Platform** | Full-stack procurement system enabling transparent vendor-buyer transactions. | MERN Stack • Firebase • REST APIs | [View Repo](https://github.com/FarhanSayed16/govbuy-platform) |
-| 🤖 **Robotic Waste Collector Project** | Robotic arm that detects and collects garbage in sandy/swampy terrains. | Arduino Mega • ESP32 • Flutter • PCA9685 • Sensors | [View Repo](https://github.com/FarhanSayed16/garbage-robotic-system) |
-| 🏙️ **Civic Issue Reporting System (SIH)** | Civic issue reporting and management portal for smart cities. | React • Flask • MySQL • REST APIs | [View Repo](https://github.com/FarhanSayed16/civic-issue-portal) |
-| 📊 **Statathon Survey Builder Project** | AI-driven survey analysis and data visualization tool. | React • Flask • Python • Pandas • Matplotlib | [View Repo](https://github.com/FarhanSayed16/statathon-survey-builder) |
-| 🌊 **SamudraSachet (Ocean Awareness)** | Web-based platform for spreading marine awareness and safety. | React • Node.js • Express • APIs • MongoDB | [View Repo](https://github.com/FarhanSayed16/samudrasachet-platform) |
+| 🏛️ **AYUSH Startup Registration Portal** | Government portal prototype developed for **Smart India Hackathon 2024**, simplifying registration for AYUSH startups. | MERN Stack • Node.js • MongoDB | [View Repo](https://github.com/FarhanSayed16/Ayush-Startup-Smart-India-Hackathon) |
+| 💼 **GovBuy – Government Procurement Platform** | Transparent **E-Procurement System** enabling secure vendor–buyer transactions for government sectors. | MERN Stack • Firebase • REST APIs | [View Repo](https://github.com/FarhanSayed16/GovBuy---Government-Procurement-Platform) |
+| 🧠 **College Innovation Portal** | Platform fostering student innovation and research project collaboration within colleges. | React • Node.js • Express • MongoDB | [View Repo](https://github.com/FarhanSayed16/College-Innovation-portal) |
+| 🤖 **EcoSweep – Robotic Waste Collector** | IoT-driven robotic arm system designed to collect waste in sandy or swampy terrains using **Arduino + ESP32**. | Arduino Mega • ESP32 • Flutter • PCA9685 • Sensors | [View Repo](https://github.com/FarhanSayed16/EcoSweep-App-Control) |
+| 🏙️ **Civic Issue Reporting System (SIH)** | Smart city platform for citizens to report civic issues and track resolutions efficiently. | React • Flask • MySQL • REST APIs | [View Repo](https://github.com/FarhanSayed16/civic-issue-reporter) |
+| 🌊 **SamudraSachet (Ocean Awareness)** | Web platform promoting marine safety and environmental awareness through interactive modules. | React • Node.js • Express • APIs • MongoDB | [View Repo](https://github.com/FarhanSayed16/Project-Samudra-Sachet) |
+| 📊 **Statathon Survey Builder Project** | AI-driven survey builder and analytics dashboard providing visual insights from real-time responses. | React • Flask • Python • Pandas • Matplotlib | [View Repo](https://github.com/FarhanSayed16/statathon-survey-builder) |
+
 
 ---
 
