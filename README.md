@@ -5,7 +5,7 @@
 <h1 align="center">Farhan Sayed</h1>
 
 <p align="center">
-  <b>AI & Robotics Enthusiast | Full Stack Developer | Research-Oriented Innovator</b>
+<b>Bridging Technology, Curiosity & Creation to Redefine Possibilities</b>
 </p>
 
 <p align="center">
@@ -32,15 +32,25 @@ Driven by curiosity and purpose, my mission is to create technology that **empow
 
 ---
 
-### 🏆 Achievements
+### 🏆 Achievements & Highlights
 
-- 🥇 **Top 5 Finalist** — *Smart India Hackathon 2024 Grand Finale (IIT Tirupati)*  
-  ➤ *AYUSH Startup Registration Portal*
-- 🧠 **AI Track Competitor** — *NextEdge Conclave 2025*  
-  ➤ *Student Performance Prediction Dashboard*
-- 🌊 **INCOIS Project Participant** — *SamudraSachet Ocean Awareness Platform*
-- 🤖 **Robotic Waste Collector Project** — *Autonomous robotic arm with Flutter + ESP32 + Arduino Mega*
-- 📊 **Statathon Participant** — *Survey Builder & Data Analysis Project for AI-based Insights*
+- 🥇 **First Place** — *Internal SIH 2025, VSIT*  
+  *Project:* **Crowdsourcing Civic Issues (Government of Jharkhand)**  
+
+- 🏅 **Finalist** — *The Open Group INITIATE EA Competition 2025 (International)*  
+  *Project:* **GovBuy – Government Procurement Platform**  
+
+- 🧠 **Finalist** — *Smart India Hackathon 2024 (IIT Tirupati)*  
+  *Problem:* **AYUSH Startup Registration Portal**  
+
+- 🥉 **Third Place** — *National-Level CSI Ideathon 2024*  
+  *Project:* **MediScan – AI-based Healthcare Diagnostic Tool**  
+
+- 🏆 **First Place** — *Internal SIH 2024, VSIT*  
+  *Project:* **Innovation Excellence Portal (AYUSH)**  
+
+- 🌿 **Participant** — *Smart India Hackathon 2023*  
+  *Problem:* **Green & Sustainable Energy – Student Innovation Track**
 
 ---
 
@@ -115,10 +125,37 @@ Driven by curiosity and purpose, my mission is to create technology that **empow
 
 ---
 
-### 🌌 Vision
+<div align="center" style="
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 16px;
+  padding: 25px;
+  max-width: 750px;
+  margin: auto;
+  box-shadow: 0 0 20px rgba(0, 255, 255, 0.15);
+">
+  <h2 style="
+    background: linear-gradient(90deg, #00C9FF, #92FE9D);
+    -webkit-background-clip: text;
+    color: transparent;
+    font-weight: 800;
+    letter-spacing: 2px;
+    margin-bottom: 10px;
+  ">
+  🌌 Vision
+  </h2>
 
-> “To innovate, explore, and research beyond boundaries —  
-> building technology that understands, evolves, and empowers humanity.”
+  <p style="
+    font-size: 18px;
+    color: #DADADA;
+    font-style: italic;
+    line-height: 1.6;
+  ">
+    “To innovate, explore, and research beyond boundaries —<br>
+    building technology that understands, evolves, and empowers humanity.”
+  </p>
+</div>
+
 
 ---
 
