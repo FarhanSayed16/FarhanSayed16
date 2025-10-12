@@ -176,3 +176,13 @@ Driven by curiosity and purpose, my mission is to create technology that **empow
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+---
+## 🐍 Contribution Snake Animation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FarhanSayed16/FarhanSayed16/output/snake.svg" alt="Snake animation" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00C9FF&center=true&vCenter=true&width=600&lines=Hey!+I'm+Farhan+Sayed;AI+%7C+Robotics+%7C+Research;Exploring+Technology+Beyond+Boundaries" />
+</p>
+
