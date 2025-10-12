@@ -186,3 +186,6 @@ Driven by curiosity and purpose, my mission is to create technology that **empow
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00C9FF&center=true&vCenter=true&width=600&lines=This+is+Farhan+Sayed!;AI+%7C+Robotics+%7C+Research;Exploring+Technology+Beyond+Boundaries" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/FarhanSayed16/FarhanSayed16/blob/main/github-metrics.svg" alt="GitHub Metrics" />
+</p>
