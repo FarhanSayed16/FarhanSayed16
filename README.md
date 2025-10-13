@@ -152,5 +152,5 @@ Driven by curiosity and purpose, my mission is to create technology that **empow
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-template/master/src/assets/bottom_header.svg" alt="wave divider" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" alt="wave divider" />
 </p>
