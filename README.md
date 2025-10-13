@@ -113,10 +113,6 @@ Driven by curiosity and purpose, my mission is to create technology that **empow
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarhanSayed16&theme=react-dark&bg_color=0D1117&color=70a5fd&line=38bdae&point=ffffff&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/FarhanSayed16/FarhanSayed16/main/github-metrics.svg" alt="GitHub Metrics" />
-</p>
-
 ---
 
 <div align="center" style="border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 16px; padding: 25px; max-width: 750px; margin: auto; box-shadow: 0 0 20px rgba(0, 255, 255, 0.1);">
@@ -157,8 +153,4 @@ Driven by curiosity and purpose, my mission is to create technology that **empow
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/FarhanSayed16/FarhanSayed16/main/3d-contribution.gif" alt="3D Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-template/master/src/assets/bottom_header.svg" alt="wave divider" />
 </p>
