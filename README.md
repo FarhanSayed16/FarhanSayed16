@@ -107,8 +107,7 @@ Driven by curiosity and purpose, my mission is to create technology that **empow
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarhanSayed16&theme=tokyonight&hide_border=true&background=0D1117" height="165" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanSayed16&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
-</p>
+  <img src="https://streak-stats.demolab.com/?user=FarhanSayed16&theme=tokyonight&hide_border=true&background=0D1117" height="165" /></p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarhanSayed16&theme=react-dark&bg_color=0D1117&color=70a5fd&line=38bdae&point=ffffff&hide_border=true" />
 </p>
