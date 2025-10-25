@@ -79,12 +79,15 @@ Driven by curiosity and purpose, my mission is to create technology that **empow
 
 #### 🧠 AI / ML & Data Science
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikit-learn,OpenCV" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="40" />
-  <br/>
-  <b>Libraries:</b> TensorFlow, PyTorch, Pandas, NumPy, scikit-learn, OpenCV
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" height="40" />
+  <br/>
+  <b>Libraries:</b> TensorFlow, PyTorch, Pandas, NumPy, scikit-learn, OpenCV
 </p>
+
 
 #### 🛢️ Databases & Cloud
 <p align="left">
