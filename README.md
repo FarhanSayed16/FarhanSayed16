@@ -79,7 +79,7 @@ Driven by curiosity and purpose, my mission is to create technology that **empow
 
 #### 🧠 AI / ML & Data Science
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikit-learn,OpenCV" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="40" />
   <br/>
