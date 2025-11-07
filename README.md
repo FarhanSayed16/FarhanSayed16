@@ -104,22 +104,16 @@ Driven by curiosity and purpose, my mission is to create technology that **empow
 <h3>📊 GitHub Stats & Activity</h3>
 
 <p align="center">
-  <img alt="GitHub Stats"
-       src="https://github-readme-stats.vercel.app/api?username=FarhanSayed16&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&bg_color=0D1117"
-       height="165" />
-  <img alt="GitHub Streak"
-       src="https://streak-stats.demolab.com?user=FarhanSayed16&theme=tokyonight&hide_border=true&background=0D1117"
-       height="165" />
+  <img src="./assets/metrics-classic.svg" alt="Overview" height="165" />
+  <img src="./assets/metrics-langs.svg" alt="Languages" height="165" />
 </p>
 
 <p align="center">
-  <img alt="Top Languages"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanSayed16&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
+  <img src="./assets/metrics-contrib.svg" alt="Contribution Calendar" />
 </p>
 
 <p align="center">
-  <img alt="Activity Graph"
-       src="https://github-readme-activity-graph.vercel.app/graph?username=FarhanSayed16&theme=react-dark&bg_color=0D1117&color=70a5fd&line=38bdae&point=ffffff&hide_border=true" />
+  <img src="./assets/metrics-achievements.svg" alt="Achievements" />
 </p>
 
 ---
