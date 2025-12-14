@@ -104,16 +104,16 @@ Driven by curiosity and purpose, my mission is to create technology that **empow
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FarhanSayed16&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&bg_color=0D1117" height="165" />
-  <img src="https://git.honoki.net/streak-stats/?user=FarhanSayed16&theme=tokyonight&hide_border=true&background=0D1117" height="165" />
+  
+  <img src="./github-streak-stats.svg" height="165" alt="Streak Stats" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanSayed16&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarhanSayed16&theme=react-dark&bg_color=0D1117&color=70a5fd&line=38bdae&point=ffffff&hide_border=true" />
 </p>
-
----
 
 <div align="center" style="border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 16px; padding: 25px; max-width: 750px; margin: auto; box-shadow: 0 0 20px rgba(0, 255, 255, 0.1);">
   <h2 style="background: linear-gradient(90deg, #00C9FF, #92FE9D); -webkit-background-clip: text; color: transparent; font-weight: 800; letter-spacing: 2px; margin-bottom: 10px;">
