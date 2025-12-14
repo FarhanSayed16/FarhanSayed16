@@ -15,8 +15,8 @@ jobs:
 
       - name: Download Streak Stats Image
         run: |
-          # This downloads the image from a reliable mirror and saves it as an SVG
-          curl -L -o github-streak-stats.svg "https://git.honoki.net/streak-stats/?user=FarhanSayed16&theme=tokyonight&hide_border=true&background=0D1117"
+          # We use the main server (demolab) which is most reliable for downloads
+          curl -L --retry 3 --fail -o github-streak-stats.svg "https://streak-stats.demolab.com/?user=FarhanSayed16&theme=tokyonight&hide_border=true&background=0D1117"
 
       - name: Push to repo
         uses: stefanzweifel/git-auto-commit-action@v4
