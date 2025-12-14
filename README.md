@@ -100,12 +100,11 @@ Driven by curiosity and purpose, my mission is to create technology that **empow
 </p>
 
 ---
-
 <h3> 📊 GitHub Stats & Activity</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FarhanSayed16&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&bg_color=0D1117" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=FarhanSayed16&theme=tokyonight&hide_border=true&background=0D1117" height="165" />
+  <img src="https://git.honoki.net/streak-stats/?user=FarhanSayed16&theme=tokyonight&hide_border=true&background=0D1117" height="165" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanSayed16&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
