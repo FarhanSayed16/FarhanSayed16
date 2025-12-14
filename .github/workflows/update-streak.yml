@@ -2,17 +2,20 @@ name: Update Streak Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every midnight
-  workflow_dispatch:      # Allows you to run it manually
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
       
       - name: Generate Streak Stats
-        uses: DenverCoder1/github-readme-streak-stats-action@v3
+        # I removed "-action" from the end of the line below 👇
+        uses: DenverCoder1/github-readme-streak-stats@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           user: FarhanSayed16
