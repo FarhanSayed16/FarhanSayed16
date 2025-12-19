@@ -49,17 +49,19 @@ Driven by curiosity and purpose, my mission is to create technology that **empow
 
 ---
 
-### 🚀 Projects
+## 🚀 Projects
 
-| Project                                    | Description                                                                                                      | Tech Stack                                  | Link                                                                                  |
-| ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------- | ------------------------------------------------------------------------------------- |
-| 🏛️ **AYUSH Startup Registration Portal** | Government portal prototype for **SIH 2024**, simplifying registration for AYUSH startups.                         | `MERN Stack`, `Python`, `Machine Learning`          | [View Repo](https://github.com/FarhanSayed16/Ayush-Startup-Smart-India-Hackathon)       |
-| 💼 **GovBuy Procurement Platform** | Transparent **E-Procurement System** enabling secure vendor–buyer transactions for government sectors.             | `MERN Stack`, `Archimate`, `AI/ML`       | [View Repo](https://github.com/FarhanSayed16/GovBuy---Government-Procurement-Platform) |
-| 🧠 **College Innovation Portal** | Platform fostering student innovation and research project collaboration within colleges.                          | `PHP`, `Laravel`, `MySQL`, `HTML/CSS/JS`    | [View Repo](https://github.com/FarhanSayed16/College-Innovation-portal)                 |
-| 🤖 **EcoSweep – Robotic Waste Collector** | IoT-driven robotic arm system to collect waste in challenging terrains using **Arduino + RaspberryPi**.                  | `RaspberryPi`, `Arduino`, `Flutter`, `Sensors`    | [View Repo](https://github.com/FarhanSayed16/EcoSweep-App-Control)                      |
-| 🏙️ **Civic Issue Reporting System (SIH)** | Smart city platform for citizens to report civic issues and track resolutions efficiently.                         | `React`, `FastAPI`, `PostgreeSQL`, `NGINX`      | [View Repo](https://github.com/FarhanSayed16/civic-issue-reporter)                      |
-| 🌊 **SamudraSachet (Ocean Awareness)** | Web platform promoting marine safety and environmental awareness through interactive modules.                      | `Python`, `FastAPI`, `PostgreeSQL`, `NGINX`    | [View Repo](https://github.com/FarhanSayed16/Project-Samudra-Sachet)                    |
-| 📊 **Statathon Survey Builder Project** | AI-driven survey builder and analytics dashboard providing visual insights from real-time responses.               | `React`, `FastAPI`, `AI/ML`, `MongoDB`        | [View Repo](https://github.com/FarhanSayed16/statathon-survey-builder)                  |
+| Project | Description | Tech Stack | Link |
+|--------|-------------|------------|------|
+| 🚨 **Disaster Preparedness & Management System (SIH 2025 Winner)** | AI-enabled disaster preparedness and response education platform for **K–12 institutions**, featuring simulations, alerts, and structured learning modules. | `AI/ML`, `React`, `FastAPI`, `PostgreSQL`, `Cloud` | Coming Soon |
+| 🏛️ **AYUSH Startup Registration Portal** | Government portal prototype for **SIH 2024**, simplifying registration for AYUSH startups. | `MERN Stack`, `Python`, `Machine Learning` | [View Repo](https://github.com/FarhanSayed16/Ayush-Startup-Smart-India-Hackathon) |
+| 💼 **GovBuy Procurement Platform** | Transparent **e-Procurement system** enabling secure vendor–buyer transactions for government sectors. | `MERN Stack`, `Archimate`, `AI/ML` | [View Repo](https://github.com/FarhanSayed16/GovBuy---Government-Procurement-Platform) |
+| 🧠 **College Innovation Portal** | Platform fostering student innovation and research project collaboration within colleges. | `PHP`, `Laravel`, `MySQL`, `HTML/CSS/JS` | [View Repo](https://github.com/FarhanSayed16/College-Innovation-portal) |
+| 🤖 **EcoSweep – Robotic Waste Collector** | IoT-driven robotic arm system to collect waste in challenging terrains using **Arduino + Raspberry Pi**. | `RaspberryPi`, `Arduino`, `Flutter`, `Sensors` | [View Repo](https://github.com/FarhanSayed16/EcoSweep-App-Control) |
+| 🏙️ **Civic Issue Reporting System (SIH)** | Smart city platform for citizens to report civic issues and track resolutions efficiently. | `React`, `FastAPI`, `PostgreSQL`, `NGINX` | [View Repo](https://github.com/FarhanSayed16/civic-issue-reporter) |
+| 🌊 **SamudraSachet (Ocean Awareness)** | Web platform promoting marine safety and environmental awareness through interactive modules. | `Python`, `FastAPI`, `PostgreSQL`, `NGINX` | [View Repo](https://github.com/FarhanSayed16/Project-Samudra-Sachet) |
+| 📊 **Statathon Survey Builder** | AI-driven survey builder and analytics dashboard providing visual insights from real-time responses. | `React`, `FastAPI`, `AI/ML`, `MongoDB` | [View Repo](https://github.com/FarhanSayed16/statathon-survey-builder) |
+
 
 ---
 
