@@ -53,7 +53,7 @@ Driven by curiosity and purpose, my mission is to create technology that **empow
 
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
-| 🚨 **Disaster Preparedness & Management System (SIH 2025 Winner)** | AI-enabled disaster preparedness and response education platform for **K–12 institutions**, featuring simulations, alerts, and structured learning modules. | `AI/ML`, `React`, `FastAPI`, `PostgreSQL`, `Cloud` | Coming Soon |
+| 🚨 **Kavach: Disaster Management System (SIH 2025 Winner)** | A full-stack IoT safety ecosystem. Features **ESP32 hardware nodes** for real-time disaster detection (Fire, Flood, Earthquake), instant sub-second alerts via **WebSockets** to a **React Dashboard** and **Flutter App**, and automated evacuation protocols. | `IoT (ESP32)`, `React`, `Node.js`, `Flutter`, `MongoDB`, `Socket.io` | Coming Soon |
 | 🏛️ **AYUSH Startup Registration Portal** | Government portal prototype for **SIH 2024**, simplifying registration for AYUSH startups. | `MERN Stack`, `Python`, `Machine Learning` | [View Repo](https://github.com/FarhanSayed16/Ayush-Startup-Smart-India-Hackathon) |
 | 💼 **GovBuy Procurement Platform** | Transparent **e-Procurement system** enabling secure vendor–buyer transactions for government sectors. | `MERN Stack`, `Archimate`, `AI/ML` | [View Repo](https://github.com/FarhanSayed16/GovBuy---Government-Procurement-Platform) |
 | 🧠 **College Innovation Portal** | Platform fostering student innovation and research project collaboration within colleges. | `PHP`, `Laravel`, `MySQL`, `HTML/CSS/JS` | [View Repo](https://github.com/FarhanSayed16/College-Innovation-portal) |
@@ -61,7 +61,6 @@ Driven by curiosity and purpose, my mission is to create technology that **empow
 | 🏙️ **Civic Issue Reporting System (SIH)** | Smart city platform for citizens to report civic issues and track resolutions efficiently. | `React`, `FastAPI`, `PostgreSQL`, `NGINX` | [View Repo](https://github.com/FarhanSayed16/civic-issue-reporter) |
 | 🌊 **SamudraSachet (Ocean Awareness)** | Web platform promoting marine safety and environmental awareness through interactive modules. | `Python`, `FastAPI`, `PostgreSQL`, `NGINX` | [View Repo](https://github.com/FarhanSayed16/Project-Samudra-Sachet) |
 | 📊 **Statathon Survey Builder** | AI-driven survey builder and analytics dashboard providing visual insights from real-time responses. | `React`, `FastAPI`, `AI/ML`, `MongoDB` | [View Repo](https://github.com/FarhanSayed16/statathon-survey-builder) |
-
 
 ---
 
