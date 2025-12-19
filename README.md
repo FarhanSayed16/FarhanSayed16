@@ -20,32 +20,32 @@
 
 ### 🧠 About Me
 
-I’m **Farhan Sayed**, a passionate technologist exploring the world of **AI, Robotics, and Research**.
+I’m **Farhan Sayed**, a developer, innovator and a passionate technologist exploring the world of **AI, Emerging Technologies, Intellegent Systems, Robotics, and Research**.
 Currently pursuing a **B.Sc. in Information Technology**, I love combining creativity with logic to build intelligent, real-world solutions — from robotics to machine learning systems.
 
 Driven by curiosity and purpose, my mission is to create technology that **empowers and evolves**.
 
 ---
 
-### 🏆 Achievements & Highlights
+## 🏆 Achievements & Highlights
 
--   🥇 **First Place** — *Internal SIH 2025, VSIT*
-    -   *Project:* **Crowdsourcing Civic Issues (Government of Jharkhand)**
+- 🥇 **Winner — Smart India Hackathon 2025 (National Level)**  
+  **Project:** Disaster Preparedness & Management System for K–12 Education
 
--   🏅 **Finalist** — *The Open Group INITIATE EA Competition 2025 (International)*
-    -   *Project:* **GovBuy – Government Procurement Platform**
+- 🧠 **Grand Finalist — Smart India Hackathon 2024 (IIT Tirupati)**  
+  **Project:** AYUSH Startup Registration Portal
 
--   🧠 **Finalist** — *Smart India Hackathon 2024 (IIT Tirupati)*
-    -   *Problem:* **AYUSH Startup Registration Portal**
+- 🏅 **Finalist — The Open Group INITIATE EA Competition 2025 (International)**  
+  **Project:** GovBuy – Government Procurement Platform
 
--   🥉 **Third Place** — *National-Level CSI Ideathon 2024*
-    -   *Project:* **MediScan – AI-based Healthcare Diagnostic Tool**
+- 🥉 **Third Place — National-Level CSI Ideathon 2024**  
+  **Project:** MediScan – AI-based Healthcare Diagnostic Tool
 
--   🏆 **First Place** — *Internal SIH 2024, VSIT*
-    -   *Project:* **Innovation Excellence Portal (AYUSH)**
+- 🏆 **Winner — Internal Smart India Hackathon 2024 (VSIT)**  
+  **Project:** Innovation Excellence Portal (AYUSH)
 
--   🌿 **Participant** — *Smart India Hackathon 2023*
-    -   *Problem:* **Green & Sustainable Energy – Student Innovation Track**
+- 🌿 **Participant — Smart India Hackathon 2023**  
+  **Track:** Green & Sustainable Energy (Student Innovation Track)
 
 ---
 
