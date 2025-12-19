@@ -68,48 +68,38 @@ Driven by curiosity and purpose, my mission is to create technology that **empow
 
 #### 💻 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,php,html,css" /><br/>
-  <b>Languages:</b> Python, C++, Java, JavaScript, TypeScript, PHP, HTML, CSS
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,php,dart,html,css" /><br/>
+  <b>Languages:</b> Python, C++, Java, JavaScript, TypeScript, PHP, Dart, HTML, CSS
 </p>
 
 #### 🧩 Frameworks & Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,fastapi,flutter,nginx" /><br/>
-  <b>Frameworks:</b> React, Node.js, Express.js, Flask, FastAPI, Flutter, Nginx
-</p>
-
-#### 🔄 Backend & Real-Time Systems
-<p align="left">
-  <b>Technologies:</b> REST APIs, WebSockets, Socket.IO, JWT Authentication
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss,nodejs,express,flask,fastapi,flutter" />
+  <img src="https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101" height="40" />
+  <br/>
+  <b>Frameworks:</b> React, Next.js, Tailwind CSS, Node.js, Express.js, Flask, FastAPI, Flutter, Socket.io
 </p>
 
 #### 🧠 AI / ML & Data Science
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="40" />
   <br/>
-  <b>Libraries:</b> TensorFlow, PyTorch, Pandas, NumPy, scikit-learn, OpenCV
+  <b>Libraries:</b> TensorFlow, PyTorch, scikit-learn, OpenCV, Pandas, NumPy
 </p>
 
-#### 🛢️ Databases
+#### 🛢️ Databases & Cloud
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" /><br/>
-  <b>Databases:</b> MongoDB, MySQL, PostgreSQL, Firebase
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,redis,aws,gcp" /><br/>
+  <b>Databases:</b> MongoDB, MySQL, PostgreSQL, Firebase, Redis, AWS, Google Cloud
 </p>
 
-#### 🤖 IoT & Embedded Systems
+#### ⚙️ Tools & DevOps
 <p align="left">
-  <b>Platforms:</b> ESP32, Arduino, Raspberry Pi<br/>
-  <b>Concepts:</b> Sensors, Actuators, Real-Time Data Streaming
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,nginx,arduino,raspberrypi" /><br/>
+  <b>Tools:</b> Git, GitHub, VS Code, Docker, Postman, Nginx, Arduino, ESP32, Raspberry Pi
 </p>
-
-#### ⚙️ Tools & Environments
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,arduino,raspberrypi" /><br/>
-  <b>Tools:</b> Git, GitHub, VS Code, Docker, Linux
-</p>
-
 ---
 <h3> 📊 GitHub Stats & Activity</h3>
 
