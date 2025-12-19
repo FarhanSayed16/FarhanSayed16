@@ -53,14 +53,14 @@ Driven by curiosity and purpose, my mission is to create technology that **empow
 
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
-| 🚨 **Kavach: Disaster Management System (SIH 2025 Winner)** | A full-stack IoT safety ecosystem. Features **ESP32 hardware nodes** for real-time disaster detection (Fire, Flood, Earthquake), instant sub-second alerts via **WebSockets** to a **React Dashboard** and **Flutter App**, and automated evacuation protocols. | `IoT (ESP32)`, `React`, `Node.js`, `Flutter`, `MongoDB`, `Socket.io` | Coming Soon |
-| 🏛️ **AYUSH Startup Registration Portal** | Government portal prototype for **SIH 2024**, simplifying registration for AYUSH startups. | `MERN Stack`, `Python`, `Machine Learning` | [View Repo](https://github.com/FarhanSayed16/Ayush-Startup-Smart-India-Hackathon) |
+| 🚨 **Kavach: Disaster Management System (SIH 2025 Winner)** | A full-stack IoT safety ecosystem using **ESP32 hardware nodes** for real-time disaster detection (Fire, Flood, Earthquake), delivering **sub-second alerts** via **WebSockets** to a **React Dashboard** and **Flutter App**, with automated evacuation workflows. | `IoT (ESP32)`, `React`, `Node.js`, `Flutter`, `MongoDB`, `Socket.IO` | Coming Soon |
+| 🏛️ **AYUSH Startup Registration Portal** | Government portal prototype for **SIH 2024**, simplifying registration and compliance for AYUSH startups. | `MERN Stack`, `Python`, `Machine Learning` | [View Repo](https://github.com/FarhanSayed16/Ayush-Startup-Smart-India-Hackathon) |
 | 💼 **GovBuy Procurement Platform** | Transparent **e-Procurement system** enabling secure vendor–buyer transactions for government sectors. | `MERN Stack`, `Archimate`, `AI/ML` | [View Repo](https://github.com/FarhanSayed16/GovBuy---Government-Procurement-Platform) |
-| 🧠 **College Innovation Portal** | Platform fostering student innovation and research project collaboration within colleges. | `PHP`, `Laravel`, `MySQL`, `HTML/CSS/JS` | [View Repo](https://github.com/FarhanSayed16/College-Innovation-portal) |
-| 🤖 **EcoSweep – Robotic Waste Collector** | IoT-driven robotic arm system to collect waste in challenging terrains using **Arduino + Raspberry Pi**. | `RaspberryPi`, `Arduino`, `Flutter`, `Sensors` | [View Repo](https://github.com/FarhanSayed16/EcoSweep-App-Control) |
+| 🧠 **College Innovation Portal** | Platform fostering student innovation and research project collaboration within academic institutions. | `PHP`, `Laravel`, `MySQL`, `HTML/CSS/JS` | [View Repo](https://github.com/FarhanSayed16/College-Innovation-portal) |
+| 🤖 **EcoSweep – Robotic Waste Collector** | IoT-driven robotic arm system for waste collection in challenging terrains using **Arduino + Raspberry Pi**. | `Raspberry Pi`, `Arduino`, `Flutter`, `Sensors` | [View Repo](https://github.com/FarhanSayed16/EcoSweep-App-Control) |
 | 🏙️ **Civic Issue Reporting System (SIH)** | Smart city platform for citizens to report civic issues and track resolutions efficiently. | `React`, `FastAPI`, `PostgreSQL`, `NGINX` | [View Repo](https://github.com/FarhanSayed16/civic-issue-reporter) |
-| 🌊 **SamudraSachet (Ocean Awareness)** | Web platform promoting marine safety and environmental awareness through interactive modules. | `Python`, `FastAPI`, `PostgreSQL`, `NGINX` | [View Repo](https://github.com/FarhanSayed16/Project-Samudra-Sachet) |
-| 📊 **Statathon Survey Builder** | AI-driven survey builder and analytics dashboard providing visual insights from real-time responses. | `React`, `FastAPI`, `AI/ML`, `MongoDB` | [View Repo](https://github.com/FarhanSayed16/statathon-survey-builder) |
+| 🌊 **SamudraSachet (Ocean Awareness)** | Web platform promoting marine safety and environmental awareness through interactive learning modules. | `Python`, `FastAPI`, `PostgreSQL`, `NGINX` | [View Repo](https://github.com/FarhanSayed16/Project-Samudra-Sachet) |
+| 📊 **Statathon Survey Builder** | AI-driven survey builder and analytics dashboard providing real-time insights from responses. | `React`, `FastAPI`, `AI/ML`, `MongoDB` | [View Repo](https://github.com/FarhanSayed16/statathon-survey-builder) |
 
 ---
 
@@ -68,14 +68,19 @@ Driven by curiosity and purpose, my mission is to create technology that **empow
 
 #### 💻 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,php,html,css" /><br/>
-  <b>Languages:</b> Python, C++, Java, JavaScript, TypeScript, PHP, HTML, CSS
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,php,html,css" /><br/>
+  <b>Languages:</b> Python, C++, Java, JavaScript, TypeScript, PHP, HTML, CSS
 </p>
 
 #### 🧩 Frameworks & Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,fastapi,flutter,nginx" /><br/>
-  <b>Frameworks:</b> React, Node.js, Express.js, Flask, FastAPI, Flutter, Nginx
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,fastapi,flutter,nginx" /><br/>
+  <b>Frameworks:</b> React, Node.js, Express.js, Flask, FastAPI, Flutter, Nginx
+</p>
+
+#### 🔄 Backend & Real-Time Systems
+<p align="left">
+  <b>Technologies:</b> REST APIs, WebSockets, Socket.IO, JWT Authentication
 </p>
 
 #### 🧠 AI / ML & Data Science
@@ -87,17 +92,22 @@ Driven by curiosity and purpose, my mission is to create technology that **empow
   <b>Libraries:</b> TensorFlow, PyTorch, Pandas, NumPy, scikit-learn, OpenCV
 </p>
 
-
-#### 🛢️ Databases & Cloud
+#### 🛢️ Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" /><br/>
-  <b>Databases:</b> MongoDB, MySQL, PostgreSQL, Firebase
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" /><br/>
+  <b>Databases:</b> MongoDB, MySQL, PostgreSQL, Firebase
+</p>
+
+#### 🤖 IoT & Embedded Systems
+<p align="left">
+  <b>Platforms:</b> ESP32, Arduino, Raspberry Pi<br/>
+  <b>Concepts:</b> Sensors, Actuators, Real-Time Data Streaming
 </p>
 
 #### ⚙️ Tools & Environments
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,arduino,raspberrypi" /><br/>
-  <b>Tools:</b> Git, GitHub, VS Code, Docker, Arduino, ESP32, Raspberry Pi
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,arduino,raspberrypi" /><br/>
+  <b>Tools:</b> Git, GitHub, VS Code, Docker, Linux
 </p>
 
 ---
