@@ -100,7 +100,9 @@ Driven by curiosity and purpose, my mission is to create technology that **empow
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,nginx,arduino,raspberrypi" /><br/>
   <b>Tools:</b> Git, GitHub, VS Code, Docker, Postman, Nginx, Arduino, ESP32, Raspberry Pi
 </p>
+
 ---
+
 <h3> 📊 GitHub Stats & Activity</h3>
 
 <p align="center">
