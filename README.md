@@ -108,7 +108,12 @@ Driven by curiosity and purpose, my mission is to create technology that **empow
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FarhanSayed16&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&bg_color=0D1117" height="165" />
   
-  <img src="./github-streak-stats.svg" height="165" alt="Streak Stats" />
+  <img 
+    src="./assets/github-streak-latest.svg"
+    height="165"
+    alt="GitHub Streak Stats"
+    onerror="this.src='https://streak-stats.demolab.com?user=FarhanSayed16&theme=tokyonight&hide_border=true&background=0D1117'"
+  />
 </p>
 
 <p align="center">
