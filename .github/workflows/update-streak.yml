@@ -1,4 +1,4 @@
-name: Update Streak Stats
+name: Update GitHub Stats
 
 on:
   schedule:
@@ -6,20 +6,29 @@ on:
   workflow_dispatch:      # Allows manual trigger
 
 jobs:
-  update-streak:
+  update-stats:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
       - uses: actions/checkout@v3
 
-      - name: Download Streak Stats Image
+      - name: Download All Stats Images
         run: |
-          # We use the main server (demolab) which is most reliable for downloads
+          # 1. Streak Stats (Already working)
           curl -L --retry 3 --fail -o github-streak-stats.svg "https://streak-stats.demolab.com/?user=FarhanSayed16&theme=tokyonight&hide_border=true&background=0D1117"
+          
+          # 2. Top Languages
+          curl -L --retry 3 --fail -o github-top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanSayed16&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8"
+          
+          # 3. Activity Graph
+          curl -L --retry 3 --fail -o github-activity-graph.svg "https://github-readme-activity-graph.vercel.app/graph?username=FarhanSayed16&theme=react-dark&bg_color=0D1117&color=70a5fd&line=38bdae&point=ffffff&hide_border=true"
+
+          # 4. Main Stats Card
+          curl -L --retry 3 --fail -o github-main-stats.svg "https://github-readme-stats.vercel.app/api?username=FarhanSayed16&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&bg_color=0D1117"
 
       - name: Push to repo
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: Update streak stats
-          file_pattern: github-streak-stats.svg
+          commit_message: Update all github stats
+          file_pattern: "*.svg"
