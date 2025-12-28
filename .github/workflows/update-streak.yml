@@ -1,0 +1,35 @@
+name: Update GitHub Streak (Self Hosted)
+
+on:
+  schedule:
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-streak:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Create assets folder
+        run: mkdir -p assets
+
+      - name: Download streak SVG
+        run: |
+          curl -L --retry 5 --fail \
+          "https://streak-stats.demolab.com?user=FarhanSayed16&theme=tokyonight&hide_border=true&background=0D1117" \
+          -o assets/github-streak-temp.svg
+
+      - name: Replace latest streak safely
+        run: |
+          mv assets/github-streak-temp.svg assets/github-streak-latest.svg
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update github streak stats"
+          file_pattern: assets/github-streak-latest.svg
