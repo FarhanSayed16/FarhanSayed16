@@ -118,21 +118,7 @@ Driven by curiosity and purpose, my mission is to create technology that **empow
   />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ai,tensorflow,pytorch,react,fastapi,flutter,arduino,raspberrypi" />
-</p>
-
-<div align="center">
-
-### 🚀 Project Spotlight  
-**KAVACH – Disaster Management System (SIH 2025 Winner)**  
-
-Real-time IoT-based disaster detection & alerting platform using  
-**ESP32 · WebSockets · React · Flutter**
-
-🔗 <a href="https://github.com/FarhanSayed16">View Project</a>
-
-</div>
+<br/>
 
 <p align="center">
   <img
