@@ -109,7 +109,6 @@ Driven by curiosity and purpose, my mission is to create technology that **empow
   <img
     src="https://github-readme-stats.vercel.app/api?username=FarhanSayed16&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&bg_color=0D1117"
     height="165"
-    alt=""
   />
 
   <img
@@ -120,11 +119,28 @@ Driven by curiosity and purpose, my mission is to create technology that **empow
 </p>
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ai,tensorflow,pytorch,react,fastapi,flutter,arduino,raspberrypi" />
+</p>
+
+<div align="center">
+
+### 🚀 Project Spotlight  
+**KAVACH – Disaster Management System (SIH 2025 Winner)**  
+
+Real-time IoT-based disaster detection & alerting platform using  
+**ESP32 · WebSockets · React · Flutter**
+
+🔗 <a href="https://github.com/FarhanSayed16">View Project</a>
+
+</div>
+
+<p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=FarhanSayed16&theme=react-dark&bg_color=0D1117&hide_border=true"
     alt="GitHub Activity Graph"
   />
 </p>
+
 
 <div align="center" style="border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 16px; padding: 25px; max-width: 750px; margin: auto; box-shadow: 0 0 20px rgba(0, 255, 255, 0.1);">
   <h2 style="background: linear-gradient(90deg, #00C9FF, #92FE9D); -webkit-background-clip: text; color: transparent; font-weight: 800; letter-spacing: 2px; margin-bottom: 10px;">
