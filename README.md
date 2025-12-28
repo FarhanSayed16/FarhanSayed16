@@ -106,16 +106,17 @@ Driven by curiosity and purpose, my mission is to create technology that **empow
 <h3> 📊 GitHub Stats & Activity</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FarhanSayed16&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&bg_color=0D1117" height="165" />
+  <img src="./github-main-stats.svg" height="165" alt="Main Stats" />
   
   <img src="./github-streak-stats.svg" height="165" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanSayed16&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
+  <img src="./github-top-langs.svg" alt="Top Languages" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarhanSayed16&theme=react-dark&bg_color=0D1117&color=70a5fd&line=38bdae&point=ffffff&hide_border=true" />
+  <img src="./github-activity-graph.svg" alt="Activity Graph" />
 </p>
 
 <div align="center" style="border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 16px; padding: 25px; max-width: 750px; margin: auto; box-shadow: 0 0 20px rgba(0, 255, 255, 0.1);">
