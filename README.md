@@ -109,7 +109,7 @@ Driven by curiosity and purpose, my mission is to create technology that **empow
   <img
     src="https://github-readme-stats.vercel.app/api?username=FarhanSayed16&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&bg_color=0D1117"
     height="165"
-    alt="GitHub Stats"
+    alt=""
   />
 
   <img
@@ -125,7 +125,6 @@ Driven by curiosity and purpose, my mission is to create technology that **empow
     alt="GitHub Activity Graph"
   />
 </p>
-
 
 <div align="center" style="border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 16px; padding: 25px; max-width: 750px; margin: auto; box-shadow: 0 0 20px rgba(0, 255, 255, 0.1);">
   <h2 style="background: linear-gradient(90deg, #00C9FF, #92FE9D); -webkit-background-clip: text; color: transparent; font-weight: 800; letter-spacing: 2px; margin-bottom: 10px;">
