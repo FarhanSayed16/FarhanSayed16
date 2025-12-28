@@ -118,14 +118,6 @@ Driven by curiosity and purpose, my mission is to create technology that **empow
 
 <p align="center">
   <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanSayed16&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8"
-  alt="Top Languages"
-  onerror="this.style.display='none'"
-/>
-</p>
-
-<p align="center">
-  <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=FarhanSayed16&theme=react-dark&bg_color=0D1117&hide_border=true"
   alt="GitHub Activity Graph"
   onerror="this.src='https://github-readme-stats.vercel.app/api?username=FarhanSayed16&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117'"
