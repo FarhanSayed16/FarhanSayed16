@@ -26,34 +26,36 @@ Currently pursuing a **B.Sc. in Information Technology**, I love combining creat
 Driven by curiosity and purpose, my mission is to create technology that **empowers and evolves**.
 
 ---
-
 ## 🏆 Achievements & Highlights
 
-- 🥇 **Winner — Smart India Hackathon 2025 (National Level)**  
-  **Project:** Disaster Preparedness & Management System for K–12 Education
+- 🥇 **Winner — Smart India Hackathon 2025 (Grand Finale, National Level)**  
+  **Project:** Disaster Preparedness & Response Education System  
+  *(Government of Punjab, Ministry of Education)*
 
-- 🧠 **Grand Finalist — Smart India Hackathon 2024 (IIT Tirupati)**  
-  **Project:** AYUSH Startup Registration Portal
+- 🥇 **Winner — Internal Smart India Hackathon 2025 (VSIT)**  
+  **Project:** Crowdsourcing Civic Issues  
+  *(Government of Jharkhand)*
 
 - 🏅 **Finalist — The Open Group INITIATE EA Competition 2025 (International)**  
   **Project:** GovBuy – Government Procurement Platform
+
+- 🥇 **Winner — MechNova Robo-Making Competition 2025**  
+  **Project:** Universal Terrain Cleaning Robot
+
+- 🧠 **Finalist — Smart India Hackathon 2024 (Grand Finale, IIT Tirupati)**  
+  **Project:** AYUSH Startup Registration Portal
 
 - 🥉 **Third Place — National-Level CSI Ideathon 2024**  
   **Project:** MediScan – AI-based Healthcare Diagnostic Tool
 
 - 🏆 **Winner — Internal Smart India Hackathon 2024 (VSIT)**  
   **Project:** Innovation Excellence Portal (AYUSH)
-
-- 🌿 **Participant — Smart India Hackathon 2023**  
-  **Track:** Green & Sustainable Energy (Student Innovation Track)
-
----
-
+  
 ## 🚀 Projects
 
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
-| 🚨 **Kavach: Disaster Management System (SIH 2025 Winner)** | A full-stack IoT safety ecosystem using **ESP32 hardware nodes** for real-time disaster detection (Fire, Flood, Earthquake), delivering **sub-second alerts** via **WebSockets** to a **React Dashboard** and **Flutter App**, with automated evacuation workflows. | `IoT (ESP32)`, `React`, `Node.js`, `Flutter`, `MongoDB`, `Socket.IO` | Coming Soon |
+| 🚨 **Kavach: Disaster Management System (SIH 2025 Winner)** | A full-stack IoT safety ecosystem using **ESP32 hardware nodes** for real-time disaster detection (Fire, Flood, Earthquake), delivering **sub-second alerts** via **WebSockets** to a **React Dashboard** and **Flutter App**, with automated evacuation workflows. | `IoT (ESP32)`, `React`, `Node.js`, `Flutter`, `MongoDB`, `Socket.IO` | [View Repo](https://github.com/FarhanSayed16/SIH2025) |
 | 🏛️ **AYUSH Startup Registration Portal** | Government portal prototype for **SIH 2024**, simplifying registration and compliance for AYUSH startups. | `MERN Stack`, `Python`, `Machine Learning` | [View Repo](https://github.com/FarhanSayed16/Ayush-Startup-Smart-India-Hackathon) |
 | 💼 **GovBuy Procurement Platform** | Transparent **e-Procurement system** enabling secure vendor–buyer transactions for government sectors. | `MERN Stack`, `Archimate`, `AI/ML` | [View Repo](https://github.com/FarhanSayed16/GovBuy---Government-Procurement-Platform) |
 | 🧠 **College Innovation Portal** | Platform fostering student innovation and research project collaboration within academic institutions. | `PHP`, `Laravel`, `MySQL`, `HTML/CSS/JS` | [View Repo](https://github.com/FarhanSayed16/College-Innovation-portal) |
