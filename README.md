@@ -1,20 +1,23 @@
-<h1 align="center">Farhan Sayed</h1>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0D1117,100:0D1117&height=190&section=header&text=Farhan%20Sayed&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Engineer%20%C2%B7%20Innovator&descAlignY=48&descSize=17&descColor=E0E0E0" width="100%"/>
 
 <p align="center">
-  <b>Bridging Technology, Curiosity & Creation to Redefine Possibilities</b>
+  <a href="https://github.com/FarhanSayed16">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  </a>
+  <a href="https://linkedin.com/in/farhansayed16">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  <a href="mailto:farhan@farhanbuilds.in">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
+  <a href="https://farhanbuilds.in">
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00D4FF" />
+  </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/FarhanSayed16" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/farhansayed16" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:farhansayed@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+</div>
 
 ---
 
@@ -104,30 +107,31 @@ Driven by curiosity and purpose, my mission is to create technology that **empow
 </p>
 
 ---
+## 📊 GitHub Stats & Activity
 
-<h3> 📊 GitHub Stats & Activity</h3>
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=FarhanSayed16&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&bg_color=0D1117"
-    height="165"
-  />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=FarhanSayed16&show_icons=true&hide_rank=true&include_all_commits=true&hide_border=true&theme=transparent"
+  width="48%"
+  alt="GitHub Stats"
+/>
 
-  <img
-    src="./assets/github-streak-latest.svg"
-    height="165"
-    alt="GitHub Streak Stats"
-  />
-</p>
+<img
+  src="https://streak-stats.demolab.com/?user=FarhanSayed16&theme=transparent&hide_border=true"
+  width="48%"
+  alt="GitHub Streak"
+/>
 
-<br/>
+<br><br>
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=FarhanSayed16&theme=react-dark&bg_color=0D1117&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
-</p>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=FarhanSayed16&theme=github-compact&hide_border=true&area=true"
+  width="96%"
+  alt="Contribution Graph"
+/>
+
+</div>
 
 
 <div align="center" style="border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 16px; padding: 25px; max-width: 750px; margin: auto; box-shadow: 0 0 20px rgba(0, 255, 255, 0.1);">
