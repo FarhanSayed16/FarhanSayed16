@@ -1,6 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B10,50:111827,100:080B10&height=190&section=header&text=Farhan%20Sayed&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Engineer%20%C2%B7%20Innovator&descAlignY=57&descSize=17&descColor=E2E8F0" width="100%"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:080B10,50:111827,100:080B10&height=190&section=header&text=Farhan%20Sayed&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Engineer%20%C2%B7%20Innovator&descAlignY=57&descSize=17&descColor=E2E8F0"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F8FAFC,50:E2E8F0,100:F8FAFC&height=190&section=header&text=Farhan%20Sayed&fontSize=50&fontColor=0F172A&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Engineer%20%C2%B7%20Innovator&descAlignY=57&descSize=17&descColor=334155"
+  />
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:080B10,50:111827,100:080B10&height=190&section=header&text=Farhan%20Sayed&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Engineer%20%C2%B7%20Innovator&descAlignY=57&descSize=17&descColor=E2E8F0"
+    width="100%"
+    alt="Farhan Sayed — Full Stack Developer, AI Engineer, Innovator"
+  />
+</picture>
 
 <p align="center">
   <a href="https://github.com/FarhanSayed16">
