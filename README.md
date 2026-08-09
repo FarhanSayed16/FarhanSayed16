@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0D1117,100:0D1117&height=190&section=header&text=Farhan%20Sayed&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Engineer%20%C2%B7%20Innovator&descAlignY=48&descSize=17&descColor=E0E0E0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0D1117,100:0D1117&height=170&section=header&text=Farhan%20Sayed&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Engineer%20%C2%B7%20Innovator&descAlignY=48&descSize=17&descColor=E0E0E0" width="100%"/>
 
 <p align="center">
   <a href="https://github.com/FarhanSayed16">
@@ -111,24 +111,27 @@ Driven by curiosity and purpose, my mission is to create technology that **empow
 
 <div align="center">
 
+<!-- GitHub Overview -->
 <img
-  src="https://github-readme-stats.vercel.app/api?username=FarhanSayed16&show_icons=true&hide_rank=true&include_all_commits=true&hide_border=true&theme=transparent"
-  width="48%"
-  alt="GitHub Stats"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FarhanSayed16&theme=github_dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=21262D&icon_color=BC8CFF"
+  height="180"
+  alt="Farhan Sayed GitHub Stats"
 />
 
+<!-- GitHub Streak -->
 <img
-  src="https://streak-stats.demolab.com/?user=FarhanSayed16&theme=transparent&hide_border=true"
-  width="48%"
-  alt="GitHub Streak"
+  src="https://streak-stats.demolab.com/?user=FarhanSayed16&hide_border=true&background=0D1117&ring=58A6FF&fire=BC8CFF&currStreakLabel=58A6FF&currStreakNum=FFFFFF&sideLabels=C9D1D9&sideNums=FFFFFF&dates=8B949E&stroke=21262D"
+  height="180"
+  alt="Farhan Sayed GitHub Streak"
 />
 
 <br><br>
 
+<!-- Contribution Graph -->
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=FarhanSayed16&theme=github-compact&hide_border=true&area=true"
-  width="96%"
-  alt="Contribution Graph"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=FarhanSayed16&bg_color=0D1117&color=C9D1D9&line=00D4FF&point=FFFFFF&area=true&area_color=123B4A&title_color=58A6FF&custom_title=Farhan%20Sayed%27s%20Contribution%20Graph&hide_border=true"
+  width="95%"
+  alt="Farhan Sayed Contribution Graph"
 />
 
 </div>
