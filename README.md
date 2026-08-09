@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0D1117,100:0D1117&height=170&section=header&text=Farhan%20Sayed&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Engineer%20%C2%B7%20Innovator&descAlignY=48&descSize=17&descColor=E0E0E0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B10,50:111827,100:080B10&height=190&section=header&text=Farhan%20Sayed&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Engineer%20%C2%B7%20Innovator&descAlignY=57&descSize=17&descColor=E2E8F0" width="100%"/>
 
 <p align="center">
   <a href="https://github.com/FarhanSayed16">
