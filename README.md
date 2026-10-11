@@ -136,32 +136,42 @@ My interests include full-stack development, machine learning, computer vision, 
 
 ---
 
+<!-- GitHub Stats, Streak & Languages -->
+
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
 
+<!-- Row 1: GitHub Stats and Streak -->
+
 <table>
-<tr>
-<td width="50%" align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FarhanSayed16&theme=github_dark" width="100%" alt="GitHub Statistics" />
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FarhanSayed16&theme=github_dark&utcOffset=5.5" width="100%" alt="GitHub Productive Time" />
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=FarhanSayed16&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=BC8CFF&rank_icon=github&include_all_commits=true"
+        width="100%"
+        alt="Farhan Sayed GitHub Statistics"
+      />
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img
+        src="https://streak-stats.demolab.com/?user=FarhanSayed16&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=BC8CFF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=8B949E"
+        width="100%"
+        alt="Farhan Sayed GitHub Streak"
+      />
+    </td>
+  </tr>
 </table>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FarhanSayed16&theme=github_dark" width="100%" alt="GitHub Profile and Contribution Summary" />
+<!-- Row 2: Most Used Languages -->
 
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=FarhanSayed16&theme=tokyonight&hide_border=true&background=0D1117" width="70%" alt="GitHub Streak Statistics" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanSayed16&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6&card_width=420"
+  width="55%"
+  alt="Farhan Sayed Most Used Programming Languages"
+/>
 
 </div>
 
