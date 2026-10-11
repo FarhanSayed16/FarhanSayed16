@@ -1,23 +1,23 @@
-# Farhan Sayed
-
 <div align="center">
 
-### Full Stack Developer · AI Engineer · Innovator
-
-Building intelligent systems through software engineering, artificial intelligence, robotics, and research.
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:080B10,50:111827,100:080B10&height=220&section=header&text=Farhan%20Sayed&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Engineer%20%C2%B7%20Innovator&descAlignY=55&descSize=17&descColor=CBD5E1"
+  width="100%"
+  alt="Farhan Sayed — Full Stack Developer, AI Engineer, Innovator"
+/>
 
 <p>
   <a href="https://github.com/FarhanSayed16">
-    <img src="https://img.shields.io/badge/GitHub-FarhanSayed16-181717?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://linkedin.com/in/farhansayed16">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:farhan@farhanbuilds.in">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://farhanbuilds.in">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0D1117?style=for-the-badge&logo=googlechrome" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00D4FF" alt="Portfolio" />
   </a>
 </p>
 
